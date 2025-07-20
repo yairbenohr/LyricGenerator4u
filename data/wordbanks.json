@@ -1,0 +1,20 @@
+{
+  "pop": {
+    "hopeful": ["sunrise", "dream", "fly", "gold", "light", "touch", "heart"],
+    "melancholy": ["tears", "fading", "goodbye", "rain", "shadow", "cold", "night"],
+    "romantic": ["kiss", "touch", "eyes", "warmth", "glow", "forever", "soft"]
+  },
+  "rap": {
+    "dark": ["chain", "ghost", "mirror", "fall", "grit", "trap", "hollow"],
+    "trippy": ["neon", "loop", "echo", "pulse", "mind", "space", "cloud"],
+    "romantic": ["ride", "grind", "vibe", "lips", "real", "deep", "drip"]
+  },
+  "indie": {
+    "melancholy": ["streetlight", "glass", "whisper", "dust", "wait", "sky", "bitter"],
+    "romantic": ["garden", "honey", "hands", "thread", "curl", "secret", "velvet"]
+  },
+  "synthpop": {
+    "hopeful": ["electric", "drive", "skyline", "neon", "midnight", "pulse", "shine"],
+    "romantic": ["motion", "voice", "signal", "dream", "fire", "spark", "fade"]
+  }
+}

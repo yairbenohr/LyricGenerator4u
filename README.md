@@ -6,6 +6,6 @@ A Python-powered lyric generator that asks users for input, genre/style, mood, a
 
 To execute the program run the following command:
 
-'''bash
+```bash
 $ ./main 
-'''
+```
